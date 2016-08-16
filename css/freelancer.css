@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background-image: url(nirvana.jpg);
+  background: transparent;
   color: white;
 }
 header .container {
@@ -250,9 +250,6 @@ section.success {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
-}
-.background {
-  background-image: url(nirvana.jpg);
 }
 .floating-label-form-group {
   position: relative;

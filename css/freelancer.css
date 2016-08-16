@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: url(nirvana.jpg);
+  background-image: url(nirvana.jpg);
   color: white;
 }
 header .container {

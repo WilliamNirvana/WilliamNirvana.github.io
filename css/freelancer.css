@@ -192,6 +192,9 @@ section.success {
   background-color: white;
   color: white;
 }
+.blue {
+  background: blue;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;

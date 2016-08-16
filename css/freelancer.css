@@ -178,6 +178,9 @@ header .intro-text .skills {
     font-size: 1.5em;
   }
 }
+#image {
+  background-image: url(nirvana.png);
+}
 section {
   padding: 100px 0;
 }

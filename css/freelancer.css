@@ -192,12 +192,9 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background-color: white;
+  background-color: #ffae42;
   color: white;
-}
-.blue {
-  background: blue;
-}
+}ni
 @media (max-width: 767px) {
   section {
     padding: 75px 0;

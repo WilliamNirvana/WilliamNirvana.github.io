@@ -13,9 +13,12 @@ body {
 }
 #wrapper {
   min-height: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto 
+}
+#center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
 }
 p {
   font-size: 20px;

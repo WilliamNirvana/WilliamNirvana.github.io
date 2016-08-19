@@ -208,7 +208,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background-color: #ffae42;
+  background-color: transparent;
   color: white;
 }ni
 @media (max-width: 767px) {

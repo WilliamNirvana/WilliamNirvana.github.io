@@ -210,8 +210,8 @@ section h2 {
 section.success {
   background-color: transparent;
   color: white;
-  height: 500px;
-}ni
+  margin-bottom: 50px;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
